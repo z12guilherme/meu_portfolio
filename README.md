@@ -16,4 +16,5 @@ Bem-vindo ao meu portfólio! Este projeto foi criado para apresentar meus trabal
 Clone o repositório e abra o arquivo `index.html` em qualquer navegador.
 
 ## Contato
-https://www.linkedin.com/in/marcos-guilherme-3a00022ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+https://www.linkedin.com/in/marcos-guilherme-114202297
+mguimarcos30@gmail.com
